@@ -15,3 +15,13 @@ Backend Java (API REST com Spring Boot)
 Frontend React.js (interface de usuário com integração à API)
 
 Banco de dados
+
+Estrutura Front End 
+
+Funcionalidades Principais
+
+✅ Cadastrar Frete
+✅ Buscar Frete (busca única em todas as propriedades, com paginação)
+✅ Atualizar Frete
+✅ Remover Frete
+✅ Estrutura flexível de propriedades dinâmicas por cliente
