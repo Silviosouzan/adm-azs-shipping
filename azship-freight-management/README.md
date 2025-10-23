@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+AZShip - Sistema de Gestão de Fretes
 
-# Run and deploy your AI Studio app
+Aplicação Full Stack desenvolvida como parte do Desafio AZShip Full Stack, com o objetivo de criar um sistema de gestão de informações de frete.
+O projeto foi desenvolvido utilizando Java (Spring Boot) no backend e React.js no frontend.
 
-This contains everything you need to run your app locally.
+🧩 Descrição do Projeto
 
-View your app in AI Studio: https://ai.studio/apps/drive/1RhpmOFoQAPzjQv3CcxS5LFVzViXZP1TE
+A aplicação permite realizar o CRUD de Fretes (Criar, Ler, Atualizar e Deletar).
+Cada cliente pode ter propriedades de frete personalizadas — por exemplo, alguns armazenam Cubagem, outros Peso ou Volume.
 
-## Run Locally
+O sistema é composto por:
 
-**Prerequisites:**  Node.js
+Backend Java (API REST com Spring Boot)
 
+Frontend React.js (interface de usuário com integração à API)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Banco de dados
