@@ -1,0 +1,5 @@
+{
+  "name": "AZShip Freight Management",
+  "description": "A dynamic freight management system (CRUD) where each freight can have a unique set of properties, allowing for flexible data storage and management. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
